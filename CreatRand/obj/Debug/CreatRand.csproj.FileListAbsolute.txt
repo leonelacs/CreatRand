@@ -1,0 +1,14 @@
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\CreatRand.csprojResolveAssemblyReference.cache
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\CreatRand.Form1.resources
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\CreatRand.Properties.Resources.resources
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\CreatRand.csproj.GenerateResource.Cache
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\CreatRand.csproj.CoreCompileInputs.cache
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\bin\Debug\RandGen.exe.config
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\bin\Debug\RandGen.exe.manifest
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\bin\Debug\RandGen.application
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\bin\Debug\RandGen.exe
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\bin\Debug\RandGen.pdb
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\RandGen.exe.manifest
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\RandGen.application
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\RandGen.exe
+D:\pro\course\bistu\algorithm\CreatRand\CreatRand\obj\Debug\RandGen.pdb
